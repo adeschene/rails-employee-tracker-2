@@ -1,6 +1,8 @@
-Sixteenth Ruby on Rails Bootcamp assignment.
+Seventeenth Ruby on Rails Bootcamp assignment.
 
-An app made to demonstrate model callbacks.
+An app made to demonstrate model callbacks and sending emails with rails.
+
+To facilitate mailing, Companies now have a required email attribute.
 
 Has 3 models: Company, Employee, and Count.
   - A Company has many Employees and has one Count.
